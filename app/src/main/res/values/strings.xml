@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiMedia-Simple</string>
+    <string name="all_tips">点击右上方菜单查看详情！</string>
+    <string name="all_play">播放</string>
+
+    <string name="media_sound">Sound</string>
+    <string name="media_vedio">Video</string>
+</resources>

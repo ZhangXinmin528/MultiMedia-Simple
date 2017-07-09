@@ -22,7 +22,9 @@
             android:name=".VideoActivity"
             android:screenOrientation="landscape" />
         <!--音频-->
-        <activity android:name=".SoundActivity" />
+        <activity android:name=".sound.SoundActivity" />
+        <activity android:name=".sound.SoundPoolActivity" />
+        <activity android:name=".sound.MediaPlayerActivity" />
     </application>
 
 </manifest>
